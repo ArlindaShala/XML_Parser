@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ParserXML",
+    "\\ParserXML.Core",
+    "\\ParserXML.Infrastructure",
+    "\\ParserXML\\bin",
+    "\\ParserXML\\Controllers",
+    "\\ParserXML\\obj",
+    "\\ParserXML\\Properties"
+  ],
+  "SelectedNode": "\\ParserXML.Infrastructure\\InfrastructureConfig.cs",
+  "PreviewInSolutionExplorer": false
+}

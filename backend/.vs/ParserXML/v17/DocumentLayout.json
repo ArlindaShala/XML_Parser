@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2193AF30-AE3D-435A-AB1C-758F8A944C0D}|ParserXML.Infrastructure\\ParserXML.Infrastructure.csproj|c:\\users\\ardon\\desktop\\xml_parser\\backend\\parserxml.infrastructure\\infrastructureconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2193AF30-AE3D-435A-AB1C-758F8A944C0D}|ParserXML.Infrastructure\\ParserXML.Infrastructure.csproj|solutionrelative:parserxml.infrastructure\\infrastructureconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2193AF30-AE3D-435A-AB1C-758F8A944C0D}|ParserXML.Infrastructure\\ParserXML.Infrastructure.csproj|c:\\users\\ardon\\desktop\\xml_parser\\backend\\parserxml.infrastructure\\excelservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2193AF30-AE3D-435A-AB1C-758F8A944C0D}|ParserXML.Infrastructure\\ParserXML.Infrastructure.csproj|solutionrelative:parserxml.infrastructure\\excelservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2193AF30-AE3D-435A-AB1C-758F8A944C0D}|ParserXML.Infrastructure\\ParserXML.Infrastructure.csproj|c:\\users\\ardon\\desktop\\xml_parser\\backend\\parserxml.infrastructure\\repositories\\tabledatarepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2193AF30-AE3D-435A-AB1C-758F8A944C0D}|ParserXML.Infrastructure\\ParserXML.Infrastructure.csproj|solutionrelative:parserxml.infrastructure\\repositories\\tabledatarepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E52FB9-493E-4F17-9CA1-B72C052C5B15}|ParserXML.Core\\ParserXML.Core.csproj|c:\\users\\ardon\\desktop\\xml_parser\\backend\\parserxml.core\\coreconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E52FB9-493E-4F17-9CA1-B72C052C5B15}|ParserXML.Core\\ParserXML.Core.csproj|solutionrelative:parserxml.core\\coreconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E52FB9-493E-4F17-9CA1-B72C052C5B15}|ParserXML.Core\\ParserXML.Core.csproj|c:\\users\\ardon\\desktop\\xml_parser\\backend\\parserxml.core\\services\\interfaces\\itabledatasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E52FB9-493E-4F17-9CA1-B72C052C5B15}|ParserXML.Core\\ParserXML.Core.csproj|solutionrelative:parserxml.core\\services\\interfaces\\itabledatasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E52FB9-493E-4F17-9CA1-B72C052C5B15}|ParserXML.Core\\ParserXML.Core.csproj|c:\\users\\ardon\\desktop\\xml_parser\\backend\\parserxml.core\\services\\implementations\\tabledatasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E52FB9-493E-4F17-9CA1-B72C052C5B15}|ParserXML.Core\\ParserXML.Core.csproj|solutionrelative:parserxml.core\\services\\implementations\\tabledatasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E52FB9-493E-4F17-9CA1-B72C052C5B15}|ParserXML.Core\\ParserXML.Core.csproj|c:\\users\\ardon\\desktop\\xml_parser\\backend\\parserxml.core\\repositories\\itabledatasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E52FB9-493E-4F17-9CA1-B72C052C5B15}|ParserXML.Core\\ParserXML.Core.csproj|solutionrelative:parserxml.core\\repositories\\itabledatasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E52FB9-493E-4F17-9CA1-B72C052C5B15}|ParserXML.Core\\ParserXML.Core.csproj|c:\\users\\ardon\\desktop\\xml_parser\\backend\\parserxml.core\\providers\\iexcelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E52FB9-493E-4F17-9CA1-B72C052C5B15}|ParserXML.Core\\ParserXML.Core.csproj|solutionrelative:parserxml.core\\providers\\iexcelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E52FB9-493E-4F17-9CA1-B72C052C5B15}|ParserXML.Core\\ParserXML.Core.csproj|c:\\users\\ardon\\desktop\\xml_parser\\backend\\parserxml.core\\dtos\\tabledatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E52FB9-493E-4F17-9CA1-B72C052C5B15}|ParserXML.Core\\ParserXML.Core.csproj|solutionrelative:parserxml.core\\dtos\\tabledatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F3F2BC-BC5A-4BA1-BB92-FB3238166148}|ParserXML\\ParserXML.csproj|c:\\users\\ardon\\desktop\\xml_parser\\backend\\parserxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F3F2BC-BC5A-4BA1-BB92-FB3238166148}|ParserXML\\ParserXML.csproj|solutionrelative:parserxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F3F2BC-BC5A-4BA1-BB92-FB3238166148}|ParserXML\\ParserXML.csproj|c:\\users\\ardon\\desktop\\xml_parser\\backend\\parserxml\\controllers\\tabledatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F3F2BC-BC5A-4BA1-BB92-FB3238166148}|ParserXML\\ParserXML.csproj|solutionrelative:parserxml\\controllers\\tabledatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2193AF30-AE3D-435A-AB1C-758F8A944C0D}|ParserXML.Infrastructure\\ParserXML.Infrastructure.csproj|c:\\users\\ardon\\desktop\\xml_parser\\backend\\parserxml.infrastructure\\parserxml.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2193AF30-AE3D-435A-AB1C-758F8A944C0D}|ParserXML.Infrastructure\\ParserXML.Infrastructure.csproj|solutionrelative:parserxml.infrastructure\\parserxml.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F3F2BC-BC5A-4BA1-BB92-FB3238166148}|ParserXML\\ParserXML.csproj|c:\\users\\ardon\\desktop\\xml_parser\\backend\\parserxml\\parserxml.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{76F3F2BC-BC5A-4BA1-BB92-FB3238166148}|ParserXML\\ParserXML.csproj|solutionrelative:parserxml\\parserxml.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParserXML.http",
+              "DocumentMoniker": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML\\ParserXML.http",
+              "RelativeDocumentMoniker": "ParserXML\\ParserXML.http",
+              "ToolTip": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML\\ParserXML.http",
+              "RelativeToolTip": "ParserXML\\ParserXML.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-20T11:18:05.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InfrastructureConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Infrastructure\\InfrastructureConfig.cs",
+              "RelativeDocumentMoniker": "ParserXML.Infrastructure\\InfrastructureConfig.cs",
+              "ToolTip": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Infrastructure\\InfrastructureConfig.cs",
+              "RelativeToolTip": "ParserXML.Infrastructure\\InfrastructureConfig.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:07:08.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ParserXML.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Infrastructure\\ParserXML.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ParserXML.Infrastructure\\ParserXML.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Infrastructure\\ParserXML.Infrastructure.csproj",
+              "RelativeToolTip": "ParserXML.Infrastructure\\ParserXML.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T11:05:34.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TableDataDto.cs",
+              "DocumentMoniker": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Core\\DTOs\\TableDataDto.cs",
+              "RelativeDocumentMoniker": "ParserXML.Core\\DTOs\\TableDataDto.cs",
+              "ToolTip": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Core\\DTOs\\TableDataDto.cs",
+              "RelativeToolTip": "ParserXML.Core\\DTOs\\TableDataDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:53:01.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IExcelService.cs",
+              "DocumentMoniker": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Core\\Providers\\IExcelService.cs",
+              "RelativeDocumentMoniker": "ParserXML.Core\\Providers\\IExcelService.cs",
+              "ToolTip": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Core\\Providers\\IExcelService.cs",
+              "RelativeToolTip": "ParserXML.Core\\Providers\\IExcelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:01:50.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITableDatasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Core\\Repositories\\ITableDatasRepository.cs",
+              "RelativeDocumentMoniker": "ParserXML.Core\\Repositories\\ITableDatasRepository.cs",
+              "ToolTip": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Core\\Repositories\\ITableDatasRepository.cs",
+              "RelativeToolTip": "ParserXML.Core\\Repositories\\ITableDatasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:01:23.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITableDatasService.cs",
+              "DocumentMoniker": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Core\\Services\\Interfaces\\ITableDatasService.cs",
+              "RelativeDocumentMoniker": "ParserXML.Core\\Services\\Interfaces\\ITableDatasService.cs",
+              "ToolTip": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Core\\Services\\Interfaces\\ITableDatasService.cs",
+              "RelativeToolTip": "ParserXML.Core\\Services\\Interfaces\\ITableDatasService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:01:07.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExcelServices.cs",
+              "DocumentMoniker": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Infrastructure\\ExcelServices.cs",
+              "RelativeDocumentMoniker": "ParserXML.Infrastructure\\ExcelServices.cs",
+              "ToolTip": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Infrastructure\\ExcelServices.cs",
+              "RelativeToolTip": "ParserXML.Infrastructure\\ExcelServices.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAwwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:38:28.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TableDataRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Infrastructure\\Repositories\\TableDataRepositories.cs",
+              "RelativeDocumentMoniker": "ParserXML.Infrastructure\\Repositories\\TableDataRepositories.cs",
+              "ToolTip": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Infrastructure\\Repositories\\TableDataRepositories.cs",
+              "RelativeToolTip": "ParserXML.Infrastructure\\Repositories\\TableDataRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:38:16.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TableDatasService.cs",
+              "DocumentMoniker": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Core\\Services\\Implementations\\TableDatasService.cs",
+              "RelativeDocumentMoniker": "ParserXML.Core\\Services\\Implementations\\TableDatasService.cs",
+              "ToolTip": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Core\\Services\\Implementations\\TableDatasService.cs",
+              "RelativeToolTip": "ParserXML.Core\\Services\\Implementations\\TableDatasService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:38:04.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TableDataController.cs",
+              "DocumentMoniker": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML\\Controllers\\TableDataController.cs",
+              "RelativeDocumentMoniker": "ParserXML\\Controllers\\TableDataController.cs",
+              "ToolTip": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML\\Controllers\\TableDataController.cs",
+              "RelativeToolTip": "ParserXML\\Controllers\\TableDataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:33:06.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML\\Program.cs",
+              "RelativeDocumentMoniker": "ParserXML\\Program.cs",
+              "ToolTip": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML\\Program.cs",
+              "RelativeToolTip": "ParserXML\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:32:56.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoreConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Core\\CoreConfig.cs",
+              "RelativeDocumentMoniker": "ParserXML.Core\\CoreConfig.cs",
+              "ToolTip": "C:\\Users\\ardon\\Desktop\\XML_Parser\\backend\\ParserXML.Core\\CoreConfig.cs",
+              "RelativeToolTip": "ParserXML.Core\\CoreConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:32:52.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
